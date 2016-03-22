@@ -43,3 +43,25 @@ ul li{
 	margin-left:auto;
 	margin-right:auto;
 }
+button{
+background-color: #3498DB;
+background-image: -webkit-linear-gradient(rgba(41, 150, 47, .8), rgba(45, 194, 52, .2));
+background-image: -moz-linear-gradient(rgba(41, 150, 47, .8), rgba(45, 194, 52, .2));
+background-image: -o-linear-gradient(rgba(41, 150, 47, .8), rgba(45, 194, 52, .2));
+background-image: linear-gradient(rgba(41, 150, 47, .8), rgba(45, 194, 52, .2));
+-ms-border-radius:6px;
+-webkit-border-radius: 6px;
+-moz-border-radius: 6px;
+border-radius: 6px;
+-webkit-box-shadow: 0 6px 0 #197b1d, 0 8px 20px rgba(0, 0, 0, .4);
+-moz-box-shadow: 0 6px 0 #197b1d, 0 8px 20px rgba(0, 0, 0, .4);
+box-shadow: 0 6px 0 #197b1d, 0 8px 20px rgba(0, 0, 0, .4);
+color: #1F618D;
+display: inline-block;
+font-family: ‘Pacifico’, Arial, sans-serif;
+font-size: 20px;
+line-height: 1;
+padding: 10px 20px;
+text-decoration: none;
+text-shadow: 0 -1px 1px rgba(25, 123, 29, .7);
+}
